@@ -4,7 +4,7 @@ This repository contains all rest ful api (backend) of the toursim web applicati
 <h2>Java,Spring Boot, MySQL, Spring JPA, Hibernate</h2>
 <h3>Steps to SetUp</h3>
 <h4>1. Clone the application</h4>
-<h6>git clone https://github.com/SankalpMergu/TourismWebAppRESTAPI.git</h6>
+<h6>git clone https://github.com/iamdsk/Tour-and-Travel-Project.git</h6>
 <h4>2. Create Mysql database</h4>
 <h6>create database tourismwebpro</h6>
 <h4>3. Change mysql username and password as per your installation</h4>
